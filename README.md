@@ -1,2 +1,2 @@
 # xcode-memos
-# [Wiki](wiki)
+## [Wiki](https://github.com/wurzelsand/xcode-memos/wiki)
